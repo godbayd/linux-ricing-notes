@@ -16,6 +16,6 @@ this got things working consistently at least so far
 in setting colors there are multiple to set
  color0, color1, color2, etc...
  
-To get see what each of the colors are, run neofetch
-The pallet bar below the info corresponds with the color
+To see what each of the colors are, run neofetch
+The colors in the pallet bar below the info correspond with the color
 settings in .Xresources in respective order
