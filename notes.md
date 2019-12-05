@@ -13,9 +13,8 @@ this got things working consistently at least so far
 
 ## Xresource Color Schemes
 
-in setting colors there are multiple to set
- color0, color1, color2, etc...
+in setting colors there are multiple to set color0, color1, color2, etc...
  
-To see what each of the colors are, run neofetch
+to see what each of the colors are, run neofetch
 The colors in the pallet bar below the info correspond with the color
 settings in .Xresources in respective order
