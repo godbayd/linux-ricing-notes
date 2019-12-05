@@ -10,3 +10,12 @@ https://unix.stackexchange.com/questions/260731/how-to-install-xorg-inside-virtu
 had to pacman -S xorg virtualbox-guest-utils
 
 this got things working consistently at least so far
+
+## Xresource Color Schemes
+
+in setting colors there are multiple to set
+ color0, color1, color2, etc...
+ 
+To get see what each of the colors are, run neofetch
+The pallet bar below the info corresponds with the color
+settings in .Xresources in respective order
